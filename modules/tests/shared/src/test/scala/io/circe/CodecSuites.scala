@@ -14,7 +14,6 @@ import cats.instances.all._
 import cats.kernel.Eq
 import cats.laws.discipline.arbitrary._
 import cats.syntax.contravariant._
-import cats.syntax.invariant._
 import cats.syntax.eq._
 import io.circe.testing.CodecTests
 import io.circe.tests.CirceSuite
